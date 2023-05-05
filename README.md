@@ -1,4 +1,4 @@
-Um pré-projeto em Java apenas para testar a lógica de um jogo de Super Trunfo utlizando filmes e seus dados como os atributos utilizados nas batalhas (ex: ano, bilheteria, orçamento)
+Um projeto em Java para testar a lógica de um jogo de Super Trunfo utlizando filmes e seus dados como os atributos utilizados nas batalhas (ex: ano, bilheteria, orçamento)
 O jogo está funcional sendo rodado no terminal.
 Só é possível jogar contra o computar por enquanto.
 
